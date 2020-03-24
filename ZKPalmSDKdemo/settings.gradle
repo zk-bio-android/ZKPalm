@@ -1,0 +1,2 @@
+rootProject.name='ZKPalmSDKdemo'
+include ':app'
